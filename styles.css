@@ -23,7 +23,7 @@ body {
 
 /* Styles for the header's h1 element */
 .header h1 {
-  font-weight: 800;
+  font-weight: 600;
 }
 
 /* Styles for the input box container */
@@ -32,7 +32,7 @@ body {
   /* border: 1px solid black; */ /* Uncomment this line to show border */
   margin-top: 10px;
   padding: 20px 30px;
-  background-color: #5353ad;
+  background-color: #CCE6FF;
   border-radius: 10px;
   box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.2);
 }
@@ -46,10 +46,8 @@ body {
   outline: none;
   margin-right: 2px;
   font-size: large;
-  font-weight: 800;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  transition: outline 0.18s ease-in;
-}
+  font-weight: 700;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif}
 
 .search::placeholder {
   color: rgb(88, 88, 88);
