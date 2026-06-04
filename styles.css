@@ -118,7 +118,7 @@ body {
   width: 400px;
   height: 200px;
   border-radius: 20px;
-  background: #DAE5E9;
+  background: #cce6ff;
   backdrop-filter: blur(5px);
   display: flex;
   flex-direction: column;
@@ -192,7 +192,7 @@ body {
   align-items: flex-start;
   margin-top: 50px;
   padding: 5px 20px;
-  background-color: #5353ad;
+  background-color: #DAE5E9;
   border-radius: 10px;
   border: 1px solid white;
   box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.2);
@@ -218,7 +218,7 @@ body {
 /* Styles for the audio playback button within the card */
 .card .word-audio-container .play-audio {
   border: none;
-  background-color: #0b0ba6;
+  background-color: #7D624D;
   width: 37px;
   height: 37px;
   border-radius: 50%;
