@@ -55,7 +55,7 @@ body {
 }
 
 .search:focus {
-  outline: 3px solid #2222aa;
+  outline: 3px solid #A37B63;
   font-weight: 800;
   color: rgb(88, 88, 88);
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
@@ -67,7 +67,7 @@ body {
   justify-content: center;
   align-items: center;
   border-radius: 50%;
-  background-color: #2222aa;
+  background-color: #FFD8D8;
   margin-left: 5px;
   padding: 25px;
   border: none;
