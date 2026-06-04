@@ -76,7 +76,7 @@ body {
 }
 
 .inputbox > button:hover {
-  background-color: #0b0ba6;
+  background-color: #A37B63;
 }
 
 .inputbox > button > i {
@@ -99,7 +99,7 @@ body {
 
 .outputbox > p {
   font-size: 20px;
-  font-weight: 800;
+  font-weight: 700;
   margin: 10px;
 }
 
@@ -118,13 +118,13 @@ body {
   width: 400px;
   height: 200px;
   border-radius: 20px;
-  background: #4d4dd3;
+  background: #DAE5E9;
   backdrop-filter: blur(5px);
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 20px;
+  gap: 10px;
   transition: all 0.18s ease-in;
 }
 
